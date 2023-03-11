@@ -26,7 +26,7 @@ drive.mount('/content/drive')
 
 import os
 os.chdir('/content/drive/MyDrive/path/to/project').
-
+```python
 # Requerimientos
 
 - Python 3.7 o superior
