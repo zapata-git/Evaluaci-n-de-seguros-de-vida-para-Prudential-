@@ -20,13 +20,11 @@ Para obtener los datos y hacerlos disponibles en los notebooks cuando se ejecuta
 2. Guarde los archivos de datos en una carpeta llamada "data" en el directorio principal del proyecto.
 3. En los notebooks de Colab, asegúrese de que la carpeta "data" esté montada en el entorno ejecutando el siguiente código:
 
-```python
 from google.colab import drive
 drive.mount('/content/drive')
 
 import os
 os.chdir('/content/drive/MyDrive/path/to/project').
-```python
 # Requerimientos
 
 - Python 3.7 o superior
