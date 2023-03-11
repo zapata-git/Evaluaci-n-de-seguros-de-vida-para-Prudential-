@@ -26,3 +26,17 @@ drive.mount('/content/drive')
 
 import os
 os.chdir('/content/drive/MyDrive/path/to/project')
+
+# Requerimientos
+
+- Python 3.7 o superior
+- pandas 1.2.4 o superior
+- numpy 1.20.2 o superior
+- scikit-learn 0.24.2 o superior
+- matplotlib 3.4.2 o superior
+
+## Entregas
+
+- Entrega 1: [Enlace al video de YouTube]
+- Entrega 2: [Enlace al video de YouTube]
+- Entrega 3: [Enlace al video de YouTube]
