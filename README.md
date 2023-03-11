@@ -12,7 +12,7 @@ Este proyecto tiene como objetivo desarrollar un modelo predictivo que clasifiqu
 Los datos utilizados en este proyecto provienen de una competencia en Kaggle llamada "Prudential Life Insurance Assessment". 
 El enlace a la fuente de datos es el siguiente: https://www.kaggle.com/c/prudential-life-insurance-assessment/data
 
-# Requerimientos
+##Requerimientos
 
 - Python 3.7 o superior
 - pandas 1.2.4 o superior
@@ -29,8 +29,12 @@ Para obtener los datos y hacerlos disponibles en los notebooks cuando se ejecuta
 2. Guarde los archivos de datos en una carpeta llamada "data" en el directorio principal del proyecto.
 3. En los notebooks de Colab, asegúrese de que la carpeta "data" esté montada en el entorno ejecutando el siguiente código:
 
+      ```python
+          from google.colab import drive
+          drive.mount('/content/drive')
 
-
+          import os
+          os.chdir('/content/drive/MyDrive/path/to/project').
 
 ## Entregas
 
