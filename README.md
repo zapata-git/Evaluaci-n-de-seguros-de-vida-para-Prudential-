@@ -25,7 +25,7 @@ from google.colab import drive
 drive.mount('/content/drive')
 
 import os
-os.chdir('/content/drive/MyDrive/path/to/project')
+os.chdir('/content/drive/MyDrive/path/to/project')``
 
 
 # Requerimientos
