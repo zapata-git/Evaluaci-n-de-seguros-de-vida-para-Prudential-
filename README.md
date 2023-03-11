@@ -12,6 +12,15 @@ Este proyecto tiene como objetivo desarrollar un modelo predictivo que clasifiqu
 Los datos utilizados en este proyecto provienen de una competencia en Kaggle llamada "Prudential Life Insurance Assessment". 
 El enlace a la fuente de datos es el siguiente: https://www.kaggle.com/c/prudential-life-insurance-assessment/data
 
+# Requerimientos
+
+- Python 3.7 o superior
+- pandas 1.2.4 o superior
+- numpy 1.20.2 o superior
+- scikit-learn 0.24.2 o superior
+- matplotlib 3.4.2 o superior
+
+
 ## Obtención de los datos
 
 Para obtener los datos y hacerlos disponibles en los notebooks cuando se ejecutan en Colab, siga los siguientes pasos:
@@ -26,18 +35,11 @@ drive.mount('/content/drive')
 import os
 os.chdir('/content/drive/MyDrive/path/to/project').
 
-# Requerimientos
 
-- Python 3.7 o superior
-- pandas 1.2.4 o superior
-- numpy 1.20.2 o superior
-- scikit-learn 0.24.2 o superior
-- matplotlib 3.4.2 o superior
+
 
 ## Entregas
 
 - Entrega 1: [Enlace al video de YouTube]
 - Entrega 2: [Enlace al video de YouTube]
 - Entrega 3: [Enlace al video de YouTube]
-
-
