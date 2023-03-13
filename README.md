@@ -12,7 +12,8 @@ Este proyecto tiene como objetivo desarrollar un modelo predictivo que clasifiqu
 Los datos utilizados en este proyecto provienen de una competencia en Kaggle llamada "Prudential Life Insurance Assessment". 
 El enlace a la fuente de datos es el siguiente: https://www.kaggle.com/c/prudential-life-insurance-assessment/data
 
-##Requerimientos
+
+## Requerimientos
 
 - Python 3.7 o superior
 - pandas 1.2.4 o superior
