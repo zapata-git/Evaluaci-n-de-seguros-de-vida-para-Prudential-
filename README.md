@@ -37,8 +37,7 @@ Para obtener los datos y hacerlos disponibles en los notebooks cuando se ejecuta
           import os
           os.chdir('/content/drive/MyDrive/path/to/project').
 
-## Entregas
+## Entregas link video YouTuBe
 
-- Entrega 1: [Enlace al video de YouTube]
-- Entrega 2: [Enlace al video de YouTube]
+- Entrega 2: [https://youtu.be/B9fqQevW3uI]
 - Entrega 3: [Enlace al video de YouTube]
