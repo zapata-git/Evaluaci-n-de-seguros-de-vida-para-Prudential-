@@ -40,4 +40,4 @@ Para obtener los datos y hacerlos disponibles en los notebooks cuando se ejecuta
 ## Entregas link video YouTuBe
 
 - Entrega 2: [https://youtu.be/B9fqQevW3uI]
-- Entrega 3: [Enlace al video de YouTube]
+- Entrega 3: [https://www.youtube.com/watch?v=id2mZdLI5f4]
