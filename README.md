@@ -39,5 +39,5 @@ Para obtener los datos y hacerlos disponibles en los notebooks cuando se ejecuta
 
 ## Entregas link video YouTuBe
 
-- Entrega 2: [https://youtu.be/B9fqQevW3uI]
-- Entrega 3: [https://www.youtube.com/watch?v=id2mZdLI5f4]
+- VIDEO_PROYECTO_ENTREGA2: [https://youtu.be/B9fqQevW3uI]
+- VIDEO_PROYECTO_ENTREGA FINAL: [https://www.youtube.com/watch?v=id2mZdLI5f4]
